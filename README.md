@@ -15,7 +15,7 @@ Content studied based on the step-by-step guide to learn JavaScript in 2022 by [
 ## Core
 | Introduction | Intermediate concepts | Going deeper |
 |-- |-- |-- |
-| [Variables](#core) | [Control Flow](#core) | [APIs](#core) |
+| [Variables](./contents/variables.md) | [Control Flow](#core) | [APIs](#core) |
 | [Data Types](#core) | [Expressions and Operators](#core) | [Classes](#core) |
 | [Type Casting](#core) | [Functions](#core) | [Iterators and Generators](#core) |
 | [Data Structures](#core) | [Strict Mode](#core) | [Modules in JavaScript](#core) |
