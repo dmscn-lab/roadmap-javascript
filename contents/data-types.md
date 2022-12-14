@@ -78,3 +78,8 @@ const tasks = {
 
 > [MDN Docs - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
+## Object Prototype
+JavaScript is an object-oriented language built around a prototype model. In JavaScript, every object inherits properties from its prototype, if there are any. A prototype is simply an object from which another object inherits properties. To create complex programs using JavaScript, one has to be proficient in working with prototypes — they form the very core of OOP in the language.
+
+> [JavaScript Info - Prototypes](https://javascript.info/prototypes)
+
