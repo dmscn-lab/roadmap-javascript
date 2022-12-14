@@ -50,3 +50,11 @@ console.log(typeof null); // "object"
 
 This is considered a bug, but one that cannot be fixed as it will break many scripts.
 
+## Typeof Operator
+The typeof operator returns a string indicating the type of the operand value.
+
+```js
+console.log(typeof 42); // "Number"
+console.log(typeof "Blubber"); // "String"
+console.log(typeof true); // "Boolean"
+```
