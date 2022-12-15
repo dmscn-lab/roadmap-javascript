@@ -103,7 +103,3 @@ These are variables declared within a function. Which can only be accessed withi
 
 ### Block
 Is any part of code delimited by `{}`. Variables declared inside a block cannot be accessed outside of it.
-
-#
-
-[< Back >](/README.md)
