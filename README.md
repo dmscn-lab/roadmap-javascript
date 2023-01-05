@@ -18,7 +18,7 @@ Content studied based on the step-by-step guide to learn JavaScript in 2022 by [
 | [Variables](./contents/variables.md) | [Control Flow](#core) | [APIs](#core) |
 | [Data Types](./contents/data-types.md) | [Expressions and Operators](#core) | [Classes](#core) |
 | [Type Casting](./contents/type-casting.md) | [Functions](#core) | [Iterators and Generators](#core) |
-| [Data Structures](#core) | [Strict Mode](#core) | [Modules in JavaScript](#core) |
+| [Data Structures](./contents/data-structures.md) | [Strict Mode](#core) | [Modules in JavaScript](#core) |
 | [Equality Comparisons](#core) | [Using "this" keyword](#core) | [Memory Management](#core) |
 | [Loops and Iterations](#core) | [Asynchronous JavaScript](#core) | [DevTools](#core) |
 
