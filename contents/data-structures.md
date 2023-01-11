@@ -93,4 +93,33 @@ Keyed collections are data collections that are ordered by key not index. They a
 ### Map
 The `Map` object holds key-value pairs and remembers the original insertion order of the keys.
 
+```js
+const mapObject = new Map();
+
+mapObject.set('key1', 1);
+mapObject.set('key2', 2);
+mapObject.set('key3', 3);
+
+console.log(mapObject.get('key1'));
+// expected output: 1
+
+mapObject.set('key1', 97);
+
+console.log(mapObject.get('key1'));
+// expected output: 97
+
+console.log(mapObject.size);
+// expected output: 3
+
+mapObject.delete('key2');
+
+console.log(mapObject.size);
+// expected output: 2
+```
+
+To see more:
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [javaScript.info](https://javascript.info/map-set#map)
+
+### WeakMap
 ...
